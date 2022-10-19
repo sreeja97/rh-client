@@ -1,0 +1,7 @@
+<h2>Video List</h2>
+
+<ul class="videos">
+  <li *ngFor="let v of videos; let i = index">
+    <span class="badge">{{ i + 1 }}</span> {{ v.title }}
+  </li>
+</ul>
