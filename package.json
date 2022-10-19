@@ -30,6 +30,7 @@
         "@angular/router": "9.1.1",
         "@ngx-translate/core": "12.1.2",
         "@ngx-translate/http-loader": "4.0.0",
+        "@types/chart.js": "^2.9.37",
         "chart.js": "2.9.3",
         "core-js": "3.6.5",
         "ng2-charts": "2.3.0",
